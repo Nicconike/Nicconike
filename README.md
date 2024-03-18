@@ -4,13 +4,14 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 
 <!--START_SECTION:waka-->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Nicco_nike)](https://twitter.com/intent/follow?screen_name=nicco_nike)
-![GitHub Follow](https://img.shields.io/github/followers/Nicconike?style=social)
-[![wakatime](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176.svg)](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176)
+[![wakatime](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed.svg)](https://wakatime.com/@018e538b-3f55-4e8e-95fa-6c3225418eed)
 
 <figure><embed src="https://wakatime.com/share/@Nicconike/75785745-2f79-4bfd-9ca1-d92305299877.svg"></embed></figure>
 
 <!--END_SECTION:waka-->
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Nicco_nike)](https://twitter.com/intent/follow?screen_name=nicco_nike)
+
 <!-- ## Lang & Tools🎯
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
