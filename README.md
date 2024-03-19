@@ -56,6 +56,14 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
   </details>
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     5 hrs 6 mins    ███████████████████░░░░░░   76.23 %
+HTML         1 hr 34 mins    ██████░░░░░░░░░░░░░░░░░░░   23.53 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Connect
