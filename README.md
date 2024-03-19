@@ -2,13 +2,9 @@
 
 DevOps Engineer with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy strategic video games, which hone my critical thinking and problem-solving skills.
 
-<div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx"></a></p>
-<!--START_SECTION:waka-->
-
 [![Code](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176.svg)](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176)
 
-<details>
-  <summary><h2>Skills🎯</h2></summary>
+<details><summary><h2>Skills🎯</h2></summary>
   <details>
     <summary>Languages</summary>
     <ul>
@@ -138,8 +134,6 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
     </ul>
   </details>
 </details>
-
-<!--END_SECTION:waka-->
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nicco_nike)](https://twitter.com/intent/follow?screen_name=nicco_nike)
 ![Discord](https://img.shields.io/discord/722504565060010035?style=flat-square&logo=Discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
