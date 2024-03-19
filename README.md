@@ -5,7 +5,7 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 <!--START_SECTION:waka-->
 
 ![Discord](https://img.shields.io/discord/722504565060010035?style=flat-square&logo=Discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
-[![wakatime](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed.svg)](https://wakatime.com/@018e538b-3f55-4e8e-95fa-6c3225418eed)
+[![Code](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176.svg)](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176)
 
 <figure><embed src="https://wakatime.com/share/@Nicconike/75785745-2f79-4bfd-9ca1-d92305299877.svg"></embed></figure>
 
