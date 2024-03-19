@@ -9,6 +9,7 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 [![wakatime](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed.svg)](https://wakatime.com/@018e538b-3f55-4e8e-95fa-6c3225418eed)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat" alt="nicconike" /> </p>
+<head>
 <style>
     /* Style the summary content */
     summary {
@@ -16,7 +17,7 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
         font-weight: bold;
         cursor: pointer;
     }
-</style>
+</style></head>
 <div class="container">
   <details><summary>Skills🎯</summary>
     <details>
