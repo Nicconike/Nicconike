@@ -62,10 +62,8 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicconike&show_icons=true&locale=en&layout=compact" alt="nicconike" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicconike&show_icons=true&locale=en" alt="nicconike" /></p>
 <!--END_SECTION:waka-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicconike" alt="nicconike" /></p>
 
 ### Connect
 
