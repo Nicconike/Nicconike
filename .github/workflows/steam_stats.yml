@@ -1,0 +1,34 @@
+name: Update Steam Stats
+
+on:
+  schedule:
+    - cron: "30 18 * * *" # Runs every day at midnight IST (UTC+5:30)
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch Steam stats
+        run: python .github/scripts/fetch_steam_stats.py
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_WEB_API_KEY }}
+          STEAM_ID: ${{ secrets.STEAM_ID }}
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Steam stats"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
