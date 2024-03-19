@@ -1,7 +1,5 @@
 ### About Me🔎
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
 DevOps Engineer with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy strategic video games, which hone my critical thinking and problem-solving skills.
 
 [![Code](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed.svg)](https://wakatime.com/@018e538b-3f55-4e8e-95fa-6c3225418eed)
@@ -64,6 +62,9 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicconike&show_icons=true&locale=en&layout=compact" alt="nicconike" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicconike&show_icons=true&locale=en" alt="nicconike" /></p>
 <!--END_SECTION:waka-->
 
 ### Connect
