@@ -4,11 +4,13 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicconike" alt="nicconike" /></a> </p>
 
-#### Working on the Above Trophies🥲
+### Working on the Above Trophies🥲
 
+[![Update Steam Stats](https://github.com/Nicconike/Nicconike/actions/workflows/steam_stats.yml/badge.svg)](https://github.com/Nicconike/Nicconike/actions/workflows/steam_stats.yml)
+[![Waka Readme](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml)
 [![wakatime](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed.svg)](https://wakatime.com/@018e538b-3f55-4e8e-95fa-6c3225418eed)
+![nicconike](https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat" alt="nicconike" /> </p>
 <head>
 <style>
     /* Style the summary content */
