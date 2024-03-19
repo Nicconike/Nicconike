@@ -12,14 +12,16 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 ![nicconike](https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat)
 
 <head>
-<style>
+  <style>
     /* Style the summary content */
     summary {
         font-size: 1.2em;
         font-weight: bold;
         cursor: pointer;
     }
-</style></head>
+  </style>
+</head>
+
 <div class="container">
   <details><summary>Skills🎯</summary>
     <details>
