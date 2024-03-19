@@ -1,6 +1,10 @@
 ### About Me🔎
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat" alt="nicconike" /> </p>
+
 DevOps Engineer with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy strategic video games, which hone my critical thinking and problem-solving skills.
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicconike" alt="nicconike" /></a> </p>
 
 [![Code](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed.svg)](https://wakatime.com/@018e538b-3f55-4e8e-95fa-6c3225418eed)
 
@@ -65,7 +69,15 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicconike" alt="nicconike" /></p>
 
-### Connect
+### Connect with Me👇
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Nicco_nike)](https://twitter.com/intent/follow?screen_name=nicco_nike)
-![Discord](https://img.shields.io/discord/722504565060010035?style=flat-square&logo=Discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
+<p align="left">
+<a href="https://twitter.com/nicco_nike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicco_nike" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhillgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhillgupta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nicconike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nicconike" height="30" width="40" /></a>
+<a href="https://discord.gg/UbetHfu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UbetHfu" height="30" width="40" /></a>
+</p>
+<!-- <p align="left"> <a href="https://twitter.com/nicco_nike" target="blank"><img src="https://img.shields.io/twitter/follow/nicco_nike?logo=twitter&style=for-the-badge" alt="nicco_nike" /></a> </p> -->
+
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Nicco_nike)](https://twitter.com/intent/follow?screen_name=nicco_nike)
+![Discord](https://img.shields.io/discord/722504565060010035?style=flat-square&logo=Discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu) -->
