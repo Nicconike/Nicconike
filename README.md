@@ -6,7 +6,7 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicconike" alt="nicconike" /></a> </p>
 
-[![Code](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed.svg)](https://wakatime.com/@018e538b-3f55-4e8e-95fa-6c3225418eed)
+[![wakatime](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed.svg)](https://wakatime.com/@018e538b-3f55-4e8e-95fa-6c3225418eed)
 
 <details><h2><summary>Skills🎯</summary></h2>
     <details><summary>Languages</summary>
