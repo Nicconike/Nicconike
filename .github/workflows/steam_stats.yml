@@ -1,6 +1,8 @@
 name: Update Steam Stats
 
 on:
+  # for manual workflow trigger
+  workflow_dispatch:
   schedule:
     - cron: "30 18 * * *" # Runs every day at midnight IST (UTC+5:30)
 
