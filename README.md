@@ -1,10 +1,11 @@
+![Heyge](https://i.imgur.com/WhVGtgP.png)
 ### About Me🔎
 
 DevOps Engineer with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy strategic video games, which hone my critical thinking and problem-solving skills.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicconike" alt="nicconike" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicconike" alt="nicconike" /></a> </p>
 
-### Working on the Above Trophies🥲
+### Working on the Above Trophies🥲 -->
 
 [![Update Steam Stats](https://github.com/Nicconike/Nicconike/actions/workflows/steam_stats.yml/badge.svg)](https://github.com/Nicconike/Nicconike/actions/workflows/steam_stats.yml)
 [![Waka Readme](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml)
@@ -12,7 +13,7 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 ![nicconike](https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat)
 
 <div class="container">
-  <details><summary>Skills🎯</summary>
+  <details><summary><b>Skills🎯</b></summary>
     <details>
       <summary>Languages</summary>
       <p>
@@ -169,25 +170,16 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
   </details>
 </div>
 
-<div class="container">
-    <details><summary>Steam Stats</summary>
-
-<!-- STEAM_STATS_START -->
-<!-- STEAM_STATS_END -->
-</details>
-</div>
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
+[![Nicco's Code Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicconike)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicconike)](https://git.io/streak-stats)
+<!-- ![Nicco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicconike&show_icons=true&theme=algolia) -->
 
 ### Connect with Me👇
 
-<p align="left">
-<a href="https://twitter.com/nicco_nike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicco_nike" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhillgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhillgupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nicconike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nicconike" height="30" width="40" /></a>
-<a href="https://discord.gg/UbetHfu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UbetHfu" height="30" width="40" /></a>
-</p>
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nicco_nike)
+![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&label=join&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
