@@ -177,16 +177,18 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 </details>
 </div>
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
+<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
 
-```txt
-Markdown     5 hrs 6 mins    ███████████████████░░░░░░   76.23 %
-HTML         1 hr 34 mins    ██████░░░░░░░░░░░░░░░░░░░   23.53 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-```
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW_LANGUAGE-->
 
-<!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_LANGUAGE_PER_REPO-->
+<!--END_SECTION:SHOW_LANGUAGE_PER_REPO-->
+
+<!--START_SECTION:SHOW_SHORT_INFO-->
+<!--END_SECTION:SHOW_SHORT_INFO-->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicconike" alt="nicconike" /></p>
 
 ### Connect with Me👇
