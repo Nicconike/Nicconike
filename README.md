@@ -20,7 +20,6 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
         cursor: pointer;
     }
   </style>
-</head>
 
 <div class="container">
   <details><summary>Skills🎯</summary>
@@ -180,9 +179,14 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
   </details>
 </div>
 
+<div class="container">
+    <details><summary>Steam Stats</summary>
+
 <!-- STEAM_STATS_START -->
 <!-- STEAM_STATS_END -->
-
+</details>
+</div>
+</head>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -203,7 +207,3 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <a href="https://www.youtube.com/c/nicconike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nicconike" height="30" width="40" /></a>
 <a href="https://discord.gg/UbetHfu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UbetHfu" height="30" width="40" /></a>
 </p>
-<!-- <p align="left"> <a href="https://twitter.com/nicco_nike" target="blank"><img src="https://img.shields.io/twitter/follow/nicco_nike?logo=twitter&style=for-the-badge" alt="nicco_nike" /></a> </p> -->
-
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Nicco_nike)](https://twitter.com/intent/follow?screen_name=nicco_nike)
-![Discord](https://img.shields.io/discord/722504565060010035?style=flat-square&logo=Discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu) -->
