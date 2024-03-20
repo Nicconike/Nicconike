@@ -19,7 +19,7 @@ jobs:
             uses: anmol098/waka-readme-stats@v4
             with:
                 WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
-                GH_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+                GH_TOKEN: ${{ secrets.GH_TOKEN }}
                 SHOW_COMMIT: "False"
                 SHOW_DAYS_OF_WEEK: "True"
                 SHOW_LANGUAGE: "True"
