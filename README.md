@@ -176,6 +176,8 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 <!-- STEAM_STATS_END -->
 </details>
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_DAYS_OF_WEEK-->
 <!--END_SECTION:SHOW_DAYS_OF_WEEK-->
@@ -189,7 +191,7 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 <!--START_SECTION:SHOW_SHORT_INFO-->
 <!--END_SECTION:SHOW_SHORT_INFO-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicconike" alt="nicconike" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nicconike)](https://git.io/streak-stats)
 
 ### Connect with Me👇
 
