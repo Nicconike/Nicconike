@@ -1,10 +1,14 @@
 name: Update Steam Stats
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
-  schedule:
-    - cron: "30 18 * * *" # Runs every day at midnight IST (UTC+5:30)
+    # Trigger on push events to the master branch
+    push:
+        branches: [ master ]
+    # for manual workflow trigger
+    workflow_dispatch:
+    schedule:
+        # Runs every day at midnight IST (UTC+5:30)
+        - cron: "30 18 * * *"
 
 jobs:
   update-stats:
@@ -32,9 +36,9 @@ jobs:
           STEAM_API_KEY: ${{ secrets.STEAM_WEB_API_KEY }}
           STEAM_ID: ${{ secrets.STEAM_ID }}
 
-      - name: Commit and push changes
+      - name: Commit & Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update Steam stats"
+          commit_message: "Update Steam Stats"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
