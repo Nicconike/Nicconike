@@ -176,20 +176,10 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 <!-- STEAM_STATS_END -->
 </details>
 </div>
+
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
-
-<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
-<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
-
-<!--START_SECTION:SHOW_LANGUAGE-->
-<!--END_SECTION:SHOW_LANGUAGE-->
-
-<!--START_SECTION:SHOW_LANGUAGE_PER_REPO-->
-<!--END_SECTION:SHOW_LANGUAGE_PER_REPO-->
-
-<!--START_SECTION:SHOW_SHORT_INFO-->
-<!--END_SECTION:SHOW_SHORT_INFO-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicconike)](https://git.io/streak-stats)
 
