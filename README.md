@@ -3,7 +3,7 @@
 
 DevOps Engineer with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy strategic video games, which hone my critical thinking and problem-solving skills.
 
-[![Readme](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml)
+<!-- [![Readme](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml) -->
 [![wakatime](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed.svg)](https://wakatime.com/@018e538b-3f55-4e8e-95fa-6c3225418eed)
 ![nicconike](https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -181,7 +181,7 @@ PHP          18 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![Nicco's Code Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicconike)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Nicco's Code Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicconike)](https://github.com/anuraghazra/github-readme-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicconike)](https://git.io/streak-stats)
 <!-- ![Nicco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicconike&show_icons=true&theme=algolia) -->
 
