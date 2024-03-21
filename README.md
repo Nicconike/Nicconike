@@ -167,6 +167,18 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 13 March 2024 - To: 20 March 2024
+
+Total Time: 14 hrs 31 mins
+
+Markdown     8 hrs 11 mins   ██████████████░░░░░░░░░░░   56.44 %
+YAML         2 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+Python       1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+HTML         1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+PHP          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Nicco's Code Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicconike)](https://github.com/anuraghazra/github-readme-stats)
