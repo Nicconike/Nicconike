@@ -1,9 +1,9 @@
-name: Waka Readme
+name: Readme
 
 on:
     # Trigger on push events to the master branch
-    push:
-        branches: [ master ]
+    # push:
+    #     branches: [ master ]
     # for manual workflow trigger
     workflow_dispatch:
     schedule:

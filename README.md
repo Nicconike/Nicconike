@@ -3,12 +3,7 @@
 
 DevOps Engineer with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy strategic video games, which hone my critical thinking and problem-solving skills.
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicconike" alt="nicconike" /></a> </p>
-
-### Working on the Above Trophies🥲 -->
-
-[![Update Steam Stats](https://github.com/Nicconike/Nicconike/actions/workflows/steam_stats.yml/badge.svg)](https://github.com/Nicconike/Nicconike/actions/workflows/steam_stats.yml)
-[![Waka Readme](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml)
+[![Readme](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/Nicconike/Nicconike/actions/workflows/waka-readme.yml)
 [![wakatime](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed.svg)](https://wakatime.com/@018e538b-3f55-4e8e-95fa-6c3225418eed)
 ![nicconike](https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -169,7 +164,6 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
     </details>
   </details>
 </div>
-
 
 <!--START_SECTION:waka-->
 
