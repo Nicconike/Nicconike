@@ -168,15 +168,15 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2024 - To: 27 March 2024
+From: 30 March 2024 - To: 06 April 2024
 
-Total Time: 26 hrs 21 mins
+Total Time: 6 hrs 33 mins
 
-Python       18 hrs 9 mins   █████████████████░░░░░░░░   67.84 %
-JavaScript   2 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Markdown     2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-YAML         1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Bash         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Python       4 hrs 36 mins   █████████████████▓░░░░░░░   70.12 %
+YAML         1 hr 36 mins    ██████░░░░░░░░░░░░░░░░░░░   24.44 %
+Bash         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
