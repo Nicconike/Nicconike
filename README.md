@@ -181,9 +181,7 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!-- [![Nicco's Code Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicconike)](https://github.com/anuraghazra/github-readme-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicconike)](https://git.io/streak-stats)
-<!-- ![Nicco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicconike&show_icons=true&theme=algolia) -->
 
 ### Connect with Me👇
 
