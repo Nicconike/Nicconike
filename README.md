@@ -163,7 +163,8 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
   </details>
 </div>
 
-### Coding Stats
+<details><summary><h2>Coding Stats 👨🏻‍💻</h2></summary>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2054%20mins-blue)
 
@@ -204,7 +205,9 @@ YAML                     27 mins             █░░░░░░░░░░�
 
  Last Updated on 11/04/2024 21:08:35 UTC
 <!--END_SECTION:waka-->
+</details>
 
+### GitHub Streak 🔥
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicconike)](https://git.io/streak-stats)
 
 ### Connect with Me👇
