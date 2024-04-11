@@ -163,6 +163,7 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
   </details>
 </div>
 
+### Coding Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2054%20mins-blue)
 
