@@ -206,6 +206,7 @@ YAML                     27 mins             █░░░░░░░░░░�
  Last Updated on 11/04/2024 21:08:35 UTC
 <!--END_SECTION:waka-->
 ### Languages over All Time
+
 <figure><embed src="https://wakatime.com/share/@Nicconike/976ad97d-5b65-4bf4-b299-ab0db3189001.svg"></embed></figure>
 
 ### GitHub Streak 🔥
