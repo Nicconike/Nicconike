@@ -205,10 +205,11 @@ YAML                     27 mins             █░░░░░░░░░░�
 
  Last Updated on 11/04/2024 21:08:35 UTC
 <!--END_SECTION:waka-->
-</details>
 
 ### GitHub Streak 🔥
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicconike)](https://git.io/streak-stats)
+
+</details>
 
 ### Connect with Me👇
 
