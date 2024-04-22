@@ -1,12 +1,12 @@
 ![Heyge](https://i.imgur.com/WhVGtgP.png)
-### About Me🔎
+### About Me 🔎
 
 DevOps Engineer with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy strategic video games, which hone my critical thinking and problem-solving skills.
 
 ![nicconike](https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat)
 
 <div class="container">
-  <details><summary><h2>Skills🎯</h2></summary>
+  <details><summary><h2>Skills 🎯</h2></summary>
     <details>
       <summary>Languages</summary>
       <p>
@@ -163,7 +163,7 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
   </details>
 </div>
 
-<details><summary><h2>Coding Stats 👨🏻‍💻</h2></summary>
+<details><summary><h2>Coding 👨🏻‍💻</h2></summary>
 
 <!--START_SECTION:waka-->
 #### Code Time Calculation Started from 19th March 2024
