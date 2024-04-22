@@ -166,6 +166,7 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 <details><summary><h2>Coding Stats 👨🏻‍💻</h2></summary>
 
 <!--START_SECTION:waka-->
+#### Code Time Calculation Started from 19th March 2024
 ![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2045%20mins-blue)
 
 **I'm a Night 🦉** 
