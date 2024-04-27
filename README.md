@@ -220,6 +220,6 @@ JSON                     33 mins             █░░░░░░░░░░�
 ><div>
 >    <b>“If you only do what you can do, you will never be more than who you are.” ― Master Shifu</b>
 >    <a href="https://i.imgur.com/NN6nr6P.png" target="_blank">
->    <img src="https://i.imgur.com/NN6nr6P.png" alt="Master Shifu" style="vertical-align: text-top;" height="18"/>
+>    <img src="https://i.imgur.com/NN6nr6P.png" alt="Master Shifu" style="vertical-align: middle;" height="18"/>
 >    </a>
 ></div>
