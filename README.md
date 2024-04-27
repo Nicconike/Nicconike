@@ -216,3 +216,10 @@ JSON                     33 mins             █░░░░░░░░░░�
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nicco_nike)
 ![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&label=join&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
+
+><div>
+>    <b>“If you only do what you can do, you will never be more than who you are.” ― Master Shifu</b>
+>    <a href="https://i.imgur.com/NN6nr6P.png" target="_blank">
+>    <img src="https://i.imgur.com/NN6nr6P.png" alt="Master Shifu" style="vertical-align: text-top;" height="18"/>
+>    </a>
+></div>
