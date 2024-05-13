@@ -2,8 +2,6 @@ name: Readme
 
 on:
     workflow_dispatch:
-    push:
-        branches: master
     schedule:
         # Runs every Monday at 12AM IST (UTC+5:30)
         - cron: "30 18 * * 0"
