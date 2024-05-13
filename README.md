@@ -187,7 +187,9 @@ Markdown                 18 mins             █░░░░░░░░░░�
 ### Connect with Me 👇
 
 ![Twitter](https://img.shields.io/twitter/follow/nicco_nike?style=social&logo=X)
-![Discord](https://img.shields.io/discord/722504565060010035?style=social&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
+![Discord](https://dcbadge.limes.pink/api/shield/361195706007945217?style=social)
+<!-- ![Discord](https://img.shields.io/discord/722504565060010035?style=social&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu) -->
+
 
 ><div>
 >    <b>“If you only do what you can do, you will never be more than who you are.” - Master Shifu</b>
