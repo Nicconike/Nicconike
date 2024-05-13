@@ -140,7 +140,6 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 
 <!--START_SECTION:waka-->
 
- Last Updated on 12/05/2024 18:33:51 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub Streak 🔥
@@ -148,13 +147,13 @@ DevOps Engineer with a passion for optimizing workflows and tackling complex cha
 
 </details>
 
-### Connect with Me👇
+### Connect with Me 👇
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nicco_nike)
-![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&label=join&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
+![Twitter](https://img.shields.io/twitter/follow/nicco_nike?style=social&logo=X)
+![Discord](https://img.shields.io/discord/722504565060010035?style=social&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
 
 ><div>
->    <b>“If you only do what you can do, you will never be more than who you are.” ― Master Shifu</b>
+>    <b>“If you only do what you can do, you will never be more than who you are.” - Master Shifu</b>
 >    <a href="https://i.imgur.com/NN6nr6P.png" target="_blank">
 >    <img src="https://i.imgur.com/NN6nr6P.png" alt="Master Shifu" style="vertical-align: bottom;" height="18"/>
 >    </a>
