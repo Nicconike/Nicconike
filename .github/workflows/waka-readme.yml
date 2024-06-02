@@ -3,8 +3,8 @@ name: Readme
 on:
     workflow_dispatch:
     schedule:
-        # Runs every Monday at 12AM IST (UTC+5:30)
-        - cron: "35 21 * * 0"
+        # Runs every Monday at 5 AM IST (UTC+5:30)
+        - cron: "30 23 * * 0"
 
 jobs:
     update-readme:
