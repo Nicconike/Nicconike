@@ -4,7 +4,7 @@ on:
     workflow_dispatch:
     schedule:
         # Runs every Monday at 12AM IST (UTC+5:30)
-        - cron: "30 18 * * 0"
+        - cron: "35 21 * * 0"
 
 jobs:
     update-readme:
