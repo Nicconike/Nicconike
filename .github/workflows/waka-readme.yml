@@ -27,3 +27,10 @@ jobs:
                 SHOW_LANGUAGE_PER_REPO: "False"
                 SHOW_UPDATED_DATE: "True"
                 SHOW_TOTAL_CODE_TIME: "True"
+
+          - name: Steam Stats
+            uses: nicconike/steam-stats@v0.1.2
+            with:
+                STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+                STEAM_ID: ${{ secrets.STEAM_ID }}
+                STEAM_CUSTOM_ID: ${{ secrets.STEAM_CUSTOM_ID }}
