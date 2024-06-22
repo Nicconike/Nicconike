@@ -1,7 +1,7 @@
 ![Heyge](https://i.imgur.com/WhVGtgP.png)
 ### About Me 🔎
 
-DevOps Engineer with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy strategic video games, which hone my critical thinking and problem-solving skills.
+**DevOps Engineer** with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy FPS, Strategic and Simulation Video Games, which hone my **Critical Thinking** and **Problem-Solving Skills**.
 
 ![nicconike](https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat)
 
