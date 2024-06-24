@@ -182,6 +182,8 @@ Text                     1 hr 48 mins        █░░░░░░░░░░�
 ### GitHub Streak 🔥
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicconike)](https://git.io/streak-stats)
 
+### All Languages
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nicconike/1d2d07d0-91bc-4a21-a7f6-cc007c633d80.png" /></a>
 </details>
 
 ### Connect with Me 👇
