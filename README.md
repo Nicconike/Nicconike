@@ -189,7 +189,7 @@ Text                     1 hr 48 mins        █░░░░░░░░░░�
 ### Connect with Me 👇
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nicco_nike?link=https%3A%2F%2Fx.com%2FNicco_nike)
-![Discord](https://img.shields.io/discord/722504565060010035?logo=discord&logoSize=auto&label=Chat&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
+![Discord](https://img.shields.io/badge/Join-Discord-blue?style=plastic&logo=discord&logoSize=auto&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
 
 ><div>
 >    <b>“If you only do what you can do, you will never be more than who you are.” - Master Shifu</b>
