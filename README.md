@@ -201,7 +201,7 @@ Go                       36 mins             ░░░░░░░░░░░�
 | ------ | ------------ | ------------- |
 | 36     | 39 hrs 1 min | 5 hrs 34 mins |
 
-#### Language (Python)
+#### Top Language (Python)
 
 | Ranked | Hours         | Daily Avg     |
 | ------ | ------------- | ------------- |
