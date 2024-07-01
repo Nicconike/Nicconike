@@ -187,7 +187,9 @@ Go                       36 mins             ░░░░░░░░░░░�
     <img src="https://wakatime.com/share/@Nicconike/1d2d07d0-91bc-4a21-a7f6-cc007c633d80.png" width="500" />
 </a>
 
-### Public Leaderboards (Monthly)[^*]
+### Wakatime Leaderboards[^*]
+
+#### Public Leaderboards (Monthly)
 
 | Ranked | Hours        | Daily Avg     |
 | ------ | ------------ | ------------- |
