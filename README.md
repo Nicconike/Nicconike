@@ -186,6 +186,25 @@ Go                       36 mins             ░░░░░░░░░░░�
 <a href="https://wakatime.com">
     <img src="https://wakatime.com/share/@Nicconike/1d2d07d0-91bc-4a21-a7f6-cc007c633d80.png" width="500" />
 </a>
+
+### Public Leaderboards (Monthly)[^*]
+
+| Ranked | Hours        | Daily Avg     |
+| ------ | ------------ | ------------- |
+| 660    | 39 hrs 1 min | 5 hrs 34 mins |
+
+#### Country Leaderboard (India)
+
+| Ranked | Hours        | Daily Avg     |
+| ------ | ------------ | ------------- |
+| 36     | 39 hrs 1 min | 5 hrs 34 mins |
+
+#### Language (Python)
+
+| Ranked | Hours         | Daily Avg     |
+| ------ | ------------- | ------------- |
+| 226    | 18 hrs 47 min | 2 hrs 41 mins |
+
 </details>
 
 ### Connect with Me 👇
@@ -200,3 +219,5 @@ Go                       36 mins             ░░░░░░░░░░░�
 >    <img src="https://i.imgur.com/NN6nr6P.png" alt="Master Shifu" style="vertical-align: bottom;" height="18"/>
 >    </a>
 ></div>
+
+[^*]: Working on automating this leaderboards updates
