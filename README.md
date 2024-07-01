@@ -183,13 +183,16 @@ Go                       36 mins             ░░░░░░░░░░░�
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicconike)](https://git.io/streak-stats)
 
 ### All Languages
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nicconike/1d2d07d0-91bc-4a21-a7f6-cc007c633d80.png" /></a>
+<a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@Nicconike/1d2d07d0-91bc-4a21-a7f6-cc007c633d80.png" width="500" />
+</a>
 </details>
 
 ### Connect with Me 👇
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nicco_nike?link=https%3A%2F%2Fx.com%2FNicco_nike)
-![Discord](https://img.shields.io/badge/Join-Discord-blue?style=plastic&logo=discord&logoSize=auto&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nicco_nike)](https://x.com/Nicco_nike)
+[![Discord](https://img.shields.io/badge/Join-Discord-blue?style=plastic&logo=discord&logoSize=auto)](https://discord.gg/UbetHfu)
+[![Steam](https://img.shields.io/badge/Steam-black?style=plastic&logo=steam)](https://steamcommunity.com/id/nicconike/)
 
 ><div>
 >    <b>“If you only do what you can do, you will never be more than who you are.” - Master Shifu</b>
