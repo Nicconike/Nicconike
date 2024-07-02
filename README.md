@@ -209,6 +209,13 @@ Go                       36 mins             ░░░░░░░░░░░�
 
 </details>
 
+<details><summary><h2>Gaming 🎮</h2></summary>
+<!-- Steam-Stats start -->
+<!-- Steam-Stats end -->
+<!-- Steam-Workshop start -->
+<!-- Steam-Workshop end -->
+</details>
+
 ### Connect with Me 👇
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nicco_nike)](https://x.com/Nicco_nike)

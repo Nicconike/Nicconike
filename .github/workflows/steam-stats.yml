@@ -2,8 +2,6 @@ name: Steam Stats
 
 on:
     workflow_dispatch:
-    schedule:
-        - cron: "30 18 * * 0"
     push:
 
 jobs:
@@ -12,6 +10,8 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - uses: nicconike/steam-stats@master
+            env:
+                HOME: /root
             with:
                 STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
                 STEAM_ID: ${{ vars.STEAM_ID }}
