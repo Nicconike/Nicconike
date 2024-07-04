@@ -211,7 +211,7 @@ Go                       36 mins             ░░░░░░░░░░░�
 
 <details><summary><h2>Gaming 🎮</h2></summary>
 <!-- Steam-Stats start -->
-<svg><svg xmlns="http://www.w3.org/2000/svg"><div xmlns="http://www.w3.org/1999/xhtml" class="card">
+<svg xmlns="http://www.w3.org/2000/svg"><div xmlns="http://www.w3.org/1999/xhtml" class="card">
         <div class="content">
             <img id="avatar" class="avatar" src="https://avatars.steamstatic.com/0718d631353dd49100dde0be17dd7e88e984478f_full.jpg" alt="Avatar" />
             <h2 id="name">Name: Nicco</h2>
@@ -229,7 +229,8 @@ Go                       36 mins             ░░░░░░░░░░░�
             </div>
             
         </div>
-    </div></svg></svg><svg><svg xmlns="http://www.w3.org/2000/svg"><div xmlns="http://www.w3.org/1999/xhtml" class="card">
+    </div></svg>
+<svg xmlns="http://www.w3.org/2000/svg"><div xmlns="http://www.w3.org/1999/xhtml" class="card">
         <div class="content">
             <h2>Recently Played Games</h2>
             
@@ -246,7 +247,7 @@ Go                       36 mins             ░░░░░░░░░░░�
             </div>
             
         </div>
-    </div></svg></svg>
+    </div></svg>
 <!-- Steam-Stats end -->
 <!-- Steam-Workshop start -->
 <!-- Steam-Workshop end -->
