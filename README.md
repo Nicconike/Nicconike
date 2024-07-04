@@ -211,6 +211,7 @@ Go                       36 mins             ░░░░░░░░░░░�
 
 <details><summary><h2>Gaming 🎮</h2></summary>
 <!-- Steam-Stats start -->
+![Steam Summary](https://raw.githubusercontent.com/Nicconike/Nicconike/master/images/steam_summary.png)![Recently Played Games](https://raw.githubusercontent.com/Nicconike/Nicconike/master/images/recently_played_games.png)
 <!-- Steam-Stats end -->
 <!-- Steam-Workshop start -->
 <!-- Steam-Workshop end -->
