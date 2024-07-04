@@ -211,7 +211,7 @@ Go                       36 mins             ░░░░░░░░░░░�
 
 <details><summary><h2>Gaming 🎮</h2></summary>
 <!-- Steam-Stats start -->
-<svg xmlns="http://www.w3.org/2000/svg"><div xmlns="http://www.w3.org/1999/xhtml" class="card">
+<svg xmlns="http://www.w3.org/2000/svg" width="434" height="301.83331298828125" viewBox="0 0 434 301.83331298828125"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="card">
         <div class="content">
             <img id="avatar" class="avatar" src="https://avatars.steamstatic.com/0718d631353dd49100dde0be17dd7e88e984478f_full.jpg" alt="Avatar" />
             <h2 id="name">Name: Nicco</h2>
@@ -229,8 +229,8 @@ Go                       36 mins             ░░░░░░░░░░░�
             </div>
             
         </div>
-    </div></svg>
-<svg xmlns="http://www.w3.org/2000/svg"><div xmlns="http://www.w3.org/1999/xhtml" class="card">
+    </div></foreignObject></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1264" height="125.91665649414062" viewBox="0 0 1264 125.91665649414062"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="card">
         <div class="content">
             <h2>Recently Played Games</h2>
             
@@ -247,7 +247,7 @@ Go                       36 mins             ░░░░░░░░░░░�
             </div>
             
         </div>
-    </div></svg>
+    </div></foreignObject></svg>
 <!-- Steam-Stats end -->
 <!-- Steam-Workshop start -->
 <!-- Steam-Workshop end -->
