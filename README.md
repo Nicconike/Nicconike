@@ -211,43 +211,6 @@ Go                       36 mins             ░░░░░░░░░░░�
 
 <details><summary><h2>Gaming 🎮</h2></summary>
 <!-- Steam-Stats start -->
-<svg xmlns='http://www.w3.org/2000/svg'><g transform='translate(0,0)'><svg xmlns="http://www.w3.org/2000/svg" width="434" height="301.83331298828125" viewBox="0 0 434 301.83331298828125"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="card">
-        <div class="content">
-            <img id="avatar" class="avatar" src="https://avatars.steamstatic.com/0718d631353dd49100dde0be17dd7e88e984478f_full.jpg" alt="Avatar" />
-            <h2 id="name">Name: Nicco</h2>
-            <div class="info-container">
-                <div class="info-left">
-                    <p id="status">Status: Online</p>
-                    <p id="country">Country: <span id="country-code">IN</span>
-                        <img id="flag" class="flag" src="https://flagcdn.com/w320/in.png" alt="Flag" />
-                    </p>
-                </div>
-                <div class="info-right">
-                    <p id="lastlogoff">Last Logoff: 04/07/2024</p>
-                    <p id="timecreated">PC Gaming Since: 11/07/2017</p>
-                </div>
-            </div>
-            
-        </div>
-    </div></foreignObject></svg>
-</g><g transform='translate(0,200)'><svg xmlns="http://www.w3.org/2000/svg" width="1264" height="125.91665649414062" viewBox="0 0 1264 125.91665649414062"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="card">
-        <div class="content">
-            <h2>Recently Played Games</h2>
-            
-            <div class="bar-container">
-                <img src="https://media.steampowered.com/steamcommunity/public/images/apps/2074920/a07ab51050a8e03993b1860ae929da51287f283b.jpg" alt="The First Descendant" class="game-icon" />
-                <progress class="progress-style-1" value="100" max="100"></progress>
-                <span class="game-info">The First Descendant (1.62 hrs)</span>
-            </div>
-            
-            <div class="bar-container">
-                <img src="https://media.steampowered.com/steamcommunity/public/images/apps/924970/4a2e853e7098bb0ebe637107e8180084a3117184.jpg" alt="Back 4 Blood" class="game-icon" />
-                <progress class="progress-style-2" value="75" max="100"></progress>
-                <span class="game-info">Back 4 Blood (1.22 hrs)</span>
-            </div>
-            
-        </div>
-    </div></foreignObject></svg></g></svg>
 <!-- Steam-Stats end -->
 <!-- Steam-Workshop start -->
 <!-- Steam-Workshop end -->
