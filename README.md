@@ -1,152 +1,232 @@
-# 🛠️Work in Progress 🚧|🚧 Please come back later⚒️
-[![Steam Stats](https://github.com/Nicconike/Steam-Stats/actions/workflows/steam-stats.yml/badge.svg)](https://github.com/Nicconike/Steam-Stats/actions/workflows/steam-stats.yml)
-[![Release](https://github.com/Nicconike/Steam-Stats/actions/workflows/release.yml/badge.svg)](https://github.com/Nicconike/Steam-Stats/actions/workflows/release.yml)
-[![CodeQL & Pylint](https://github.com/Nicconike/Steam-Stats/actions/workflows/codeql.yml/badge.svg)](https://github.com/Nicconike/Steam-Stats/actions/workflows/codeql.yml)
-[![Bandit](https://github.com/Nicconike/Steam-Stats/actions/workflows/sast.yml/badge.svg)](https://github.com/Nicconike/Steam-Stats/actions/workflows/sast.yml)
-![Pylint](https://img.shields.io/badge/Pylint-9.28-yellow?logo=python)
-[![codecov](https://codecov.io/gh/Nicconike/Steam-Stats/graph/badge.svg?token=SC5P7CS1BW)](https://codecov.io/gh/Nicconike/Steam-Stats)
-![Docker Image Size](https://img.shields.io/docker/image-size/nicconike/steam-stats?logo=docker&label=Docker%20Image&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fnicconike%2Fsteam-stats)
-![Docker Pulls](https://img.shields.io/docker/pulls/nicconike/steam-stats?logo=docker&label=Docker%20Pulls&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fnicconike%2Fsteam-stats)
-![GitHub Release](https://img.shields.io/github/v/release/nicconike/steam-stats)
-![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fgithub.com%2FNicconike%2FSteam-Stats%2Fblob%2Fmaster%2Fpyproject.toml%3Fraw%3Dtrue)
-![GitHub repo size](https://img.shields.io/github/repo-size/nicconike/steam-stats?logo=github&label=Repo%20Size)
-![GitHub License](https://img.shields.io/github/license/nicconike/Steam-Stats)
-[![Visitor Badge](https://badges.pufler.dev/visits/nicconike/steam-stats)](https://badges.pufler.dev)
+![Heyge](https://i.imgur.com/WhVGtgP.png)
+### About Me 🔎
 
-> ### From one Passionate Gamer and Developer to Another 🍻
-***
-## Prerequisites
-1. **Steam Web API Key:** API key is important to fetch your account details and for that you will require a key which you can create for your account [here](https://steamcommunity.com/dev)
-2. **Github API Token:**
-	1. Goto your Github profile -> Settings -> Developer Settings -> Personal Access Tokens -> Tokens(Classic) or just click [here](https://github.com/settings/tokens)
-	2. Generate new token -> Generate new token(classic)
-	3. Select scopes -> repo and workflow only
-	4. Set a reasonable expiration date
-3. **Markdown Comments:** Update the markdown file by adding the comments where the Steam Stats will be embedded to. Refer [here](#Update-Readme) to learn more.
-4. **Steam ID:** You can get your 64-bit Steam id (SteamID64 - 17 digit number) by clicking on your profile name in the top right corner in steam desktop client, select "Account Details" and your Steam ID will be displayed directly under your account name
-5. **Steam Custom ID:** Open the Steam desktop application, click on your profile name in the top right corner. Select _View Profile_ and your custom URL will be displayed in the URL bar. From this url you will know your Steam Custom ID
+**DevOps Engineer** with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy FPS, Strategic and Simulation Video Games, which hone my **Critical Thinking** and **Problem-Solving Skills**.
 
-The Github Actions is set to run on every Monday 12 AM IST (UTC+5:30) which you can modify to your own time as per your liking by updating it in the workflow file
+![nicconike](https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat)
 
-```yml
-schedule:
-        - cron: "30 18 * * 0"
+<div class="container">
+    <details>
+        <summary>
+            <h2>Skills 🎯</h2>
+        </summary>
+        <details>
+            <summary>Languages</summary>
+            <p>
+                <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+                    alt="Go" />
+                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+                    alt="Java" />
+                <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+                    alt="Python" />
+            </p>
+        </details>
+        <details>
+            <summary>Testing Tools</summary>
+            <p>
+                <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+                    alt="Postman" />
+                <img src="https://img.shields.io/badge/junit-black?style=for-the-badge&logo=junit5&link=https%3A%2F%2Fjunit.org%2Fjunit5%2F"
+                    alt="JUnit" />
+                <img src="https://img.shields.io/badge/jmeter-black?style=for-the-badge&logo=apachejmeter&link=https%3A%2F%2Fjmeter.apache.org%2F"
+                    alt="JMeter" />
+            </p>
+        </details>
+        <details>
+            <summary>Version Control</summary>
+            <p>
+                <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
+                    alt="Git" />
+                <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+                    alt="GitHub" />
+                <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab"
+                    alt="GitLab" />
+            </p>
+        </details>
+        <details>
+            <summary>Containerization & Orchestration</summary>
+            <p>
+                <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+                    alt="Docker" />
+                <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
+                    alt="Kubernetes" />
+                <img src="https://img.shields.io/badge/helm-black?style=for-the-badge&logo=helm&link=https%3A%2F%2Fjmeter.apache.org%2F"
+                    alt="Helm Charts" />
+            </p>
+        </details>
+        <details>
+            <summary>CICD Tools</summary>
+            <p>
+                <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab"
+                    alt="GitLab CI/CD" />
+                <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"
+                    alt="GitHub Actions" />
+                <img src="https://img.shields.io/badge/aws%20CI-black?style=for-the-badge&logo=amazon"
+                    alt="AWS CI/CD" />
+            </p>
+        </details>
+        <details>
+            <summary>Cloud Services</summary>
+            <p>
+                <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+                    alt="AWS" />
+            </p>
+        </details>
+        <details>
+            <summary>Monitoring & Logging</summary>
+            <p>
+                <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white"
+                    alt="Datadog" />
+                <img src="https://img.shields.io/badge/AWS%20CloudWatch-white?style=for-the-badge&logo=amazoncloudwatch&link=https%3A%2F%2Faws.amazon.com%2Fcloudwatch%2F"
+                    alt="AWS CloudWatch" />
+            </p>
+        </details>
+        <details>
+            <summary>Infrastructure as Code & Configuration Management</summary>
+            <p>
+                <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"
+                    alt="Terraform" />
+                <a href="https://www.openpolicyagent.org/" target="_blank" rel="noopener noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/openpolicyagent/openpolicyagent-icon.svg" alt="OPA"
+                        height="30" />
+                </a>
+            </p>
+        </details>
+        <details>
+            <summary>Artifact Management</summary>
+            <p>
+                <img alt="JFrog" src="https://img.shields.io/badge/jfrog-3D7E39?style=for-the-badge&logo=jfrog">
+            </p>
+        </details>
+        <details>
+            <summary>Project Management & Collaboration Tools</summary>
+            <p>
+                <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
+                    alt="Jira" />
+                <img src="https://imgur.com/MDnDqkK.png" alt="Service Now" height="30" />
+                <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"
+                    alt="Slack" />
+                <img src="https://img.shields.io/badge/ms%20teams-3F44C7?style=for-the-badge&logo=microsoftteams&logoColor=white"
+                    alt="MS Teams" />
+                <img alt="Box"
+                    src="https://img.shields.io/badge/box-3F44C7?style=for-the-badge&logo=box&logoColor=white" />
+            </p>
+        </details>
+        <details>
+            <summary>Database Technologies</summary>
+            <p>
+                <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
+                    alt="MySQL" />
+                <img src="https://img.shields.io/badge/amazon%20redshift-3F44C7?style=for-the-badge&logo=amazonredshift&logoColor=white"
+                    alt="Amazon Redshift" />
+                <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"
+                    alt="Amazon DynamoDB" />
+            </p>
+        </details>
+        <details>
+            <summary>Other</summary>
+            <p>
+                <a href="https://www.scootersoftware.com/" target="_blank" rel="noopener noreferrer">
+                    <img src="https://i.imgur.com/KOgPIoh.png" alt="Beyond Compare" height="30" />
+                </a>
+            </p>
+        </details>
+    </details>
+</div>
+
+<details><summary><h2>Coding 👨🏻‍💻</h2></summary>
+
+#### Code Time Calculation Initiated on March 19, 2024
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2046%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+🌃 Evening                114 commits         ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+🌙 Night                  352 commits         █████████████████░░░░░░░░   69.43 % 
 ```
-> [!IMPORTANT]
-> Please don't forget any of the steps mentioned in the prerequisites else the Github Action will not work.
->
-> You can refer the [Steam Stats Wiki](https://github.com/Nicconike/Steam-Stats/wiki) if you have any questions related to any of the steps mentioned in [Prerequisites](#Prerequisites).
-***
-## Samples (From my [Steam Account](https://steamcommunity.com/id/nicconike/))
-**Example for Steam User Stats**
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Tuesday                  54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Thursday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Friday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Sunday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   24 hrs 38 mins      ████████████████░░░░░░░░░   62.38 % 
+YAML                     6 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Markdown                 3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+TOML                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Go                       36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+```
+
+
+ Last Updated on 01/07/2024 15:49:26 UTC
+<!--END_SECTION:waka-->
+
+### GitHub Streak 🔥
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nicconike)](https://git.io/streak-stats)
+
+### All Languages
+<a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@Nicconike/1d2d07d0-91bc-4a21-a7f6-cc007c633d80.png" width="500" />
+</a>
+
+### Wakatime Leaderboards (Worldwide)[^*]
+
+#### Public Leaderboards (Weekly)
+
+| Ranked | Hours        | Daily Avg     |
+| ------ | ------------ | ------------- |
+| 660    | 39 hrs 1 min | 5 hrs 34 mins |
+
+#### Country Leaderboard (India)
+
+| Ranked | Hours        | Daily Avg     |
+| ------ | ------------ | ------------- |
+| 36     | 39 hrs 1 min | 5 hrs 34 mins |
+
+#### Top Language (Python)
+
+| Ranked | Hours         | Daily Avg     |
+| ------ | ------------- | ------------- |
+| 226    | 18 hrs 47 min | 2 hrs 41 mins |
+
+</details>
+
+<details><summary><h2>Gaming 🎮</h2></summary>
 <!-- Steam-Stats start -->
-![Steam Summary](assets/steam_summary.png)
-![Recently Played Games](assets/recently_played_games.png)![Steam Workshop Stats](assets/steam_workshop_stats.png)
 <!-- Steam-Stats end -->
-
-**Example for Steam Workshop Stats**
 <!-- Steam-Workshop start -->
-![Steam Workshop Stats](https://github.com/Nicconike/Steam-Stats/blob/master/assets/steam_workshop_stats.png)
 <!-- Steam-Workshop end -->
-***
-## Update README
-1. Add below comment in your markdown file for Steam User Stats
-	```md
-	<!-- Steam-Stats start -->
-	<!-- Steam-Stats end -->
-	```
-2. Add below comment for Steam Workshop Stats (Optional)
-	```md
-	<!-- Steam-Workshop start -->
-	<!-- Steam-Workshop end -->
-	```
-3. Don't forget to add these comments in your readme file or wherever you want to display your steam stats, because without the comments the readme will not get updated
-***
-## Features
-1. Steam Player Summary[^1]
-2. Recently Played Games from Steam in the Last 2 Weeks
-3. Steam Workshop Stats (If Available)
+</details>
 
-### Feature Flags
-1. Steam User Stats (Required | Default)
-	1. Steam Player Summary
-	2. Steam's Recently Played Games in the last 2 weeks
-		1. The Graph plot for recently played games is by default implemented in a fixed scale but if you want you can update it to be in a logarithmic scale by using this flag: `LOG_SCALE: True`
-		2. When `LOG_SCALE` is `False`
+### Connect with Me 👇
 
-			![Recently Played Games](https://github.com/Nicconike/Steam-Stats/blob/master/assets/recently_played_games(linear).png)
-		3. When `LOG_SCALE` is `True`
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nicco_nike)](https://x.com/Nicco_nike)
+[![Discord](https://img.shields.io/badge/Join-Discord-blue?style=plastic&logo=discord&logoSize=auto)](https://discord.gg/UbetHfu)
+[![Steam](https://img.shields.io/badge/Steam-black?style=plastic&logo=steam)](https://steamcommunity.com/id/nicconike/)
 
-			![Recently Played Games](https://github.com/Nicconike/Steam-Stats/blob/master/assets/recently_played_games(logarithmic).png)
-2. Steam Workshop Stats (Optional)
-	1. Workshop Stats Module can be activated/used by adding this flag in the workflow file in the environment variables: `WORKSHOP_STATS: True`
-	2. This module displays the total number of Unique Visitors, Subscribers and Favorites for your Steam Workshop Items
-***
-## Setup with Example
-After completing the steps mentioned in the [Prerequisites](#Prerequisites), you have to save all the mentioned keys(except markdown comments) like Github Token,API Key, Steam-ID, Custom-ID as Secrets in your Github repo's settings.
+><div>
+>    <b>“If you only do what you can do, you will never be more than who you are.” - Master Shifu</b>
+>    <a href="https://i.imgur.com/NN6nr6P.png" target="_blank">
+>    <img src="https://i.imgur.com/NN6nr6P.png" alt="Master Shifu" style="vertical-align: bottom;" height="18"/>
+>    </a>
+></div>
 
-> Repo Settings -> Security -> Secrets and Variables -> Actions -> Add in Repository Secrets
-
-If you are new to **Github Secrets** then you can checkout this doc [here](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions). And from [here](https://docs.github.com/en/actions/security-guides/automatic-token-authentication) you can learn about **Github Tokens**.
-
-**Sample Workflow File**
-
-```yml
-name: Steam Stats
-
-on:
-    schedule:
-        # Runs every Monday at 12AM IST (UTC+5:30)
-        - cron: "30 18 * * 0"
-    workflow_dispatch:
-
-jobs:
-    update-readme:
-        name: Steam Stats
-        runs-on: ubuntu-latest
-        steps:
-          - uses: nicconike/steam-stats@master
-            with:
-                STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-                STEAM_ID: ${{ vars.STEAM_ID }}
-                STEAM_CUSTOM_ID: ${{ vars.STEAM_CUSTOM_ID }}
-```
-***
-## Contributions
-
-
-
-Please refer [Contributing.md](https://github.com/Nicconike/Steam-Stats/blob/master/.github/CONTRIBUTING.md) to get to know how to contribute to this project.
-And thank you for considering to contribute.
-
-***
-## Credits
-
-- **Actions**
-	- **GitHub Actions**
-		- [Checkout](https://github.com/actions/checkout)
-		- [Setup-Python](https://github.com/actions/setup-python)
-		- [Cache](https://github.com/actions/cache)
-		- [Upload-Artifact](https://github.com/actions/upload-artifact)
-		- [Create-Github-App-Token](https://github.com/actions/create-github-app-token)
-	- **Semantic Release**
-		- [Python-Semantic-Release](https://github.com/python-semantic-release/python-semantic-release)
-	- **Docker**
-		- [Setup-Buildx-Action](https://github.com/docker/setup-buildx-action)
-		- [Login-Action](https://github.com/docker/login-action)
-		- [Metadata-Action](https://github.com/docker/metadata-action)
-		- [Build-Push-Action](https://github.com/docker/build-push-action)
-		- [Scout-Action](https://github.com/docker/scout-action)
-	- **CodeQL**
-		- [CodeQL-Action](https://github.com/github/codeql-action)
-	- **Codecov**
-		- [Codecov-Action](https://github.com/codecov/codecov-action)
-- **Styles**
-	- [Progress Bar Design](https://github.com/Nicconike/Steam-Stats/blob/master/assets/style.css)[^2] - [Ana Tudor](https://codepen.io/thebabydino)
-
-***
-Created with 🐍 & ❤️ by [Nicco](https://github.com/Nicconike)
-
-[^1]: Unfortunately, Steam Web API doesn't support Web Sockets so the profile status cannot be updated in real time as it gets updated in steam profile 🥲
-
-[^2]: Modified `style.css` code according to my requirements
+[^*]: Working on automating this leaderboards updates
