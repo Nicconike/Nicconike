@@ -191,21 +191,21 @@ Markdown                 3 hrs 29 mins       ██░░░░░░░░░�
 
 #### Public Leaderboards (Weekly)
 
-| Ranked | Hours        | Daily Avg     |
-| ------ | ------------ | ------------- |
-| 660    | 39 hrs 1 min | 5 hrs 34 mins |
+| Ranked | Hours         | Daily Avg     |
+| ------ | ------------- | ------------- |
+| 321    | 46 hrs 2 mins | 6 hrs 34 mins |
 
 #### Country Leaderboard (India)
 
-| Ranked | Hours        | Daily Avg     |
-| ------ | ------------ | ------------- |
-| 36     | 39 hrs 1 min | 5 hrs 34 mins |
+| Ranked | Hours         | Daily Avg     |
+| ------ | ------------- | ------------- |
+| 16     | 46 hrs 2 mins | 6 hrs 34 mins |
 
 #### Top Language (Python)
 
-| Ranked | Hours         | Daily Avg     |
-| ------ | ------------- | ------------- |
-| 226    | 18 hrs 47 min | 2 hrs 41 mins |
+| Ranked | Hours          | Daily Avg     |
+| ------ | -------------- | ------------- |
+| 242    | 18 hrs 16 mins | 2 hrs 36 mins |
 
 </details>
 
@@ -219,8 +219,8 @@ Markdown                 3 hrs 29 mins       ██░░░░░░░░░�
 ### Connect with Me 👇
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nicco_nike)](https://x.com/Nicco_nike)
-[![Discord](https://img.shields.io/badge/Join-Discord-blue?style=plastic&logo=discord&logoSize=auto)](https://discord.gg/UbetHfu)
-[![Steam](https://img.shields.io/badge/Steam-black?style=plastic&logo=steam)](https://steamcommunity.com/id/nicconike/)
+[![Discord](https://img.shields.io/badge/Join-Discord-blue?logo=discord)](https://discord.gg/UbetHfu)
+[![Steam](https://img.shields.io/badge/Steam-black?logo=steam)](https://steamcommunity.com/id/nicconike/)
 
 ><div>
 >    <b>“If you only do what you can do, you will never be more than who you are.” - Master Shifu</b>
