@@ -209,7 +209,7 @@ Markdown                 3 hrs 29 mins       ██░░░░░░░░░�
 
 </details>
 
-<details><summary><h2>Gaming 🎮</h2></summary>
+<details markdown="1"><summary><h2>Gaming 🎮</h2></summary>
 <!-- Steam-Stats start -->
 <!-- Steam-Stats end -->
 <!-- Steam-Workshop start -->
