@@ -216,7 +216,6 @@ Markdown                 3 hrs 29 mins       ██░░░░░░░░░�
 <!-- Steam-Stats end -->
 
 <!-- Steam-Workshop start -->
-![Steam Workshop Stats](https://github.com/Nicconike/Nicconike/blob/master/assets/steam_workshop_stats.png)
 <!-- Steam-Workshop end -->
 </details>
 
