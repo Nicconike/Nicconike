@@ -17,3 +17,4 @@ jobs:
                 STEAM_ID: ${{ vars.STEAM_ID }}
                 STEAM_CUSTOM_ID: ${{ vars.STEAM_CUSTOM_ID }}
                 WORKSHOP_STATS: True
+                LOG_SCALE: True
