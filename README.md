@@ -191,21 +191,21 @@ Go                       58 mins             █░░░░░░░░░░�
 
 #### Public Leaderboards (Weekly)
 
-| Ranked | Hours         | Daily Avg     |
-| ------ | ------------- | ------------- |
-| 321    | 46 hrs 2 mins | 6 hrs 34 mins |
+| Ranked | Hours          | Daily Avg     |
+| ------ | -------------- | ------------- |
+| 1770   | 30 hrs 35 mins | 4 hrs 22 mins |
 
 #### Country Leaderboard (India)
 
-| Ranked | Hours         | Daily Avg     |
-| ------ | ------------- | ------------- |
-| 16     | 46 hrs 2 mins | 6 hrs 34 mins |
+| Ranked | Hours          | Daily Avg     |
+| ------ | -------------- | ------------- |
+| 101    | 30 hrs 35 mins | 4 hrs 22 mins |
 
 #### Top Language (Python)
 
-| Ranked | Hours          | Daily Avg     |
-| ------ | -------------- | ------------- |
-| 242    | 18 hrs 16 mins | 2 hrs 36 mins |
+| Ranked | Hours         | Daily Avg     |
+| ------ | ------------- | ------------- |
+| 325    | 16 hrs 7 mins | 2 hrs 18 mins |
 
 </details>
 
