@@ -221,6 +221,7 @@ Go                       58 mins             █░░░░░░░░░░�
 ![Steam Workshop Stats](https://github.com/Nicconike/Nicconike/blob/master/assets/steam_workshop_stats.png)
 <!-- Steam-Workshop end -->
 
+**Powered by [Steam Stats](https://github.com/Nicconike/Steam-Stats)**
 </details>
 
 ### Connect with Me 👇
