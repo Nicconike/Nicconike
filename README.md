@@ -193,19 +193,19 @@ Text                     10 mins             ░░░░░░░░░░░�
 
 | Ranked | Hours          | Daily Avg     |
 | ------ | -------------- | ------------- |
-| 1770   | 30 hrs 35 mins | 4 hrs 22 mins |
+| 2337   | 27 hrs 29 mins | 4 hrs 34 mins |
 
 #### Country Leaderboard (India)
 
 | Ranked | Hours          | Daily Avg     |
 | ------ | -------------- | ------------- |
-| 101    | 30 hrs 35 mins | 4 hrs 22 mins |
+| 118    | 27 hrs 29 mins | 4 hrs 34 mins |
 
-#### Top Language (Python)
+#### Top Language (Go)
 
-| Ranked | Hours         | Daily Avg     |
-| ------ | ------------- | ------------- |
-| 325    | 16 hrs 7 mins | 2 hrs 18 mins |
+| Ranked | Hours          | Daily Avg     |
+| ------ | -------------- | ------------- |
+| 157    | 13 hrs 58 mins | 2 hrs 19 mins |
 
 </details>
 
