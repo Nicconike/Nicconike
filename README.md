@@ -186,6 +186,21 @@ Markdown                 1 hr 41 mins        ██░░░░░░░░░�
 </a>
 
 <!-- Wakatime-Start -->
+### Wakatime Leaderboards (Worldwide)
+
+#### Public Leaderboards (Weekly)
+
+| Ranked | Hours Coded | Daily Avg |
+| ------ | ----------- | --------- |
+| 3834 | 24 hrs 5 mins | 3 hrs 26 mins |
+
+#### Top Language (Python)
+
+| Ranked | Hours Coded | Daily Avg |
+| ------ | ----------- | --------- |
+| 876 | 9 hrs 15 mins | 1 hrs 19 mins |
+
+
 <!-- Wakatime-End -->
 
 **Powered by [Wakatime Leaderboards](https://github.com/Nicconike/Wakatime-Leaderboards)**
