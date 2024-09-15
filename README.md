@@ -189,13 +189,13 @@ Docker                   46 mins             █░░░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 3021 | 28 hrs 38 mins | 4 hrs 5 mins |
+| 7653 | 14 hrs 48 mins | 2 hrs 6 mins |
 
-#### Top Language (Python)
+#### Top Language (YAML)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 223 | 21 hrs 37 mins | 3 hrs 5 mins |
+| 289 | 5 hrs 9 mins | 44 mins |
 
 
 <!-- Wakatime-End -->
