@@ -5,13 +5,18 @@
 
 version: 2
 updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-    reviewers:
+    - package-ecosystem: "github-actions"
+      directory: "/"
+      schedule:
+          interval: "weekly"
+      commit-message:
+          prefix: "ci"
+      labels:
+          - github_actions
+      rebase-strategy: auto
+      reviewers:
           - "nicconike"
-    groups:
-        github-actions:
-            patterns:
-                - "*"
+      groups:
+          github-actions:
+              patterns:
+                  - "*"
