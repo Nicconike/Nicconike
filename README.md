@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://i.imgur.com/WhVGtgP.png" alt="Heyge">
-    <img src="https://github.com/Nicconike/Nicconike/blob/master/assets/steam_artwork.gif" width="30%" alt="Profile">
+    <img src="https://github.com/Nicconike/Nicconike/blob/master/assets/steam_artwork.gif" width="25%" alt="Profile">
 </div>
 
 ### About Me 🔎
