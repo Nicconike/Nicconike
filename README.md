@@ -2,12 +2,16 @@
     <img src="https://i.imgur.com/WhVGtgP.png" alt="Heyge">
     <img src="https://github.com/Nicconike/Nicconike/blob/master/assets/steam_artwork.gif" width="25%" alt="Profile">
 </div>
+<div align="center">
+    <a href="https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176">
+        <img src="https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176.svg" alt="wakatime">
+    </a>
+        <img src="https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat" alt="visitors">
+</div>
 
 ### About Me 🔎
 **DevOps Engineer** with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy FPS, Strategic and Simulation Video Games, which hone my **Critical Thinking** and **Problem-Solving Skills**.
 
-[![wakatime](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176.svg)](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176)
-![nicconike](https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat)
 
 <div class="container">
     <details>
