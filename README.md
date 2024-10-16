@@ -195,13 +195,13 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 14 hrs 33 mins | 2 hrs 4 mins |
+| None | 19 hrs 56 mins | 2 hrs 50 mins |
 
-#### Top Language (TypeScript)
+#### Top Language (Python)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 5527 | 6 hrs 5 mins | 52 mins |
+| 1297 | 6 hrs 19 mins | 54 mins |
 
 
 <!-- Wakatime-End -->
