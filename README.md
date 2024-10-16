@@ -1,5 +1,4 @@
 ![Heyge](https://i.imgur.com/WhVGtgP.png)
-
 <div align="left">
     <img src="https://github.com/Nicconike/Nicconike/blob/master/assets/steam_artwork.gif" width="25%" alt="Profile">
 </div>
