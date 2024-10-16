@@ -1,6 +1,6 @@
-<div align="center">
-    <img src="https://i.imgur.com/WhVGtgP.png" alt="Heyge" style="display: inline-block;">
-    <img src="https://github.com/Nicconike/Nicconike/blob/master/assets/steam_artwork.gif" alt="Profile" style="display: inline-block; width: 35%;">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://i.imgur.com/WhVGtgP.png" alt="Heyge" style="margin-right: 10px;">
+    <img src="https://github.com/Nicconike/Nicconike/blob/master/assets/steam_artwork.gif" alt="Profile" style="width: 35%;">
 </div>
 
 ### About Me 🔎
