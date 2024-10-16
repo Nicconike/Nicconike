@@ -11,7 +11,8 @@ jobs:
         name: Steam Stats
         runs-on: ubuntu-latest
         steps:
-          - uses: nicconike/steam-stats@master
+          - name: Steam Stats
+            uses: nicconike/steam-stats@master
             with:
                 STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
                 STEAM_ID: ${{ vars.STEAM_ID }}

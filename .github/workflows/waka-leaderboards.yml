@@ -11,7 +11,7 @@ jobs:
         name: Wakatime Leaderboards
         runs-on: ubuntu-latest
         steps:
-          - name: Run Wakatime Leaderboards
+          - name: Wakatime Leaderboards
             uses: nicconike/wakatime-leaderboards@master
             with:
                 WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
