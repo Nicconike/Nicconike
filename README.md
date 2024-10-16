@@ -1,7 +1,7 @@
-<p>
+<div align="center">
     <img src="https://i.imgur.com/WhVGtgP.png" alt="Heyge" style="display: inline-block;">
-    <img src="https://github.com/Nicconike/Nicconike/blob/master/assets/steam_artwork.gif" alt="Profile" style="display: inline-block; width: 30%;">
-</p>
+    <img src="https://github.com/Nicconike/Nicconike/blob/master/assets/steam_artwork.gif" alt="Profile" style="display: inline-block; width: 35%;">
+</div>
 
 ### About Me 🔎
 **DevOps Engineer** with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy FPS, Strategic and Simulation Video Games, which hone my **Critical Thinking** and **Problem-Solving Skills**.
