@@ -3,10 +3,8 @@
     <img src="https://github.com/Nicconike/Nicconike/blob/master/assets/steam_artwork.gif" width="25%" alt="Profile">
 </div>
 <div align="center">
-    <a href="https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176">
-        <img src="https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176.svg" alt="wakatime">
-    </a>
-        <img src="https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat" alt="visitors">
+    <a href="https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176"><img src="https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/018e5397-e230-494c-ad7e-a876a6ad1176.svg" alt="wakatime"></a>
+    <img src="https://komarev.com/ghpvc/?username=nicconike&label=Profile%20views&color=0e75b6&style=flat" alt="visitors">
 </div>
 
 ### About Me 🔎
