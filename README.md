@@ -161,13 +161,13 @@
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 4080 | 20 hrs 18 mins | 2 hrs 54 mins |
+| None | 10 hrs 19 mins | 1 hr 28 mins |
 
-#### Top Language (Go)
+#### Top Language (JavaScript)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 285 | 9 hrs 31 mins | 1 hr 21 mins |
+| None | 4 hrs 4 mins | 34 mins |
 
 
 <!-- Wakatime-End -->
