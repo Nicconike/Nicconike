@@ -10,6 +10,7 @@
 ### About Me 🔎
 **DevOps Engineer** with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy FPS, Strategic and Simulation Video Games, which hone my **Critical Thinking** and **Problem-Solving Skills**.
 
+**Currently working on [Spotify-GitHub](https://github.com/Nicconike/Spotify-GitHub)**
 
 <div class="container">
     <details>
