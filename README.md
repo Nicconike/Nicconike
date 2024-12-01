@@ -191,13 +191,13 @@ Other                    0 secs              ░░░░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 2 hrs 34 mins | 22 mins |
+| None | 50 mins | 7 mins |
 
-#### Top Language (JavaScript)
+#### Top Language (JSON)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 1 hr 49 mins | 15 mins |
+| 2161 | 50 mins | 7 mins |
 
 
 <!-- Wakatime-End -->
