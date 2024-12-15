@@ -162,13 +162,13 @@
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 50 mins | 7 mins |
+| None | 5 hrs 51 mins | 50 mins |
 
-#### Top Language (JSON)
+#### Top Language (Python)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 2161 | 50 mins | 7 mins |
+| 3002 | 3 hrs 42 mins | 31 mins |
 
 
 <!-- Wakatime-End -->
