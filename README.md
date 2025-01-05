@@ -196,13 +196,13 @@ HTML                     8 mins              ░░░░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 8339 | 10 hrs 36 mins | 1 hr 30 mins |
+| 8340 | 8 hrs 26 mins | 1 hr 12 mins |
 
-#### Top Language (YAML)
+#### Top Language (Python)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 202 | 4 hrs 24 mins | 37 mins |
+| 975 | 5 hrs 19 mins | 45 mins |
 
 
 <!-- Wakatime-End -->
