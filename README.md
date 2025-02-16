@@ -192,13 +192,13 @@ YAML                     7 mins              ███████████�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 8 hrs 55 mins | 1 hr 16 mins |
+| None | 7 mins | 1 min |
 
 #### Top Language (YAML)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 324 | 3 hrs 36 mins | 30 mins |
+| 5156 | 7 mins | 1 min |
 
 
 <!-- Wakatime-End -->
