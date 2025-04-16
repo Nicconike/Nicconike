@@ -8,9 +8,7 @@
 </div>
 
 ### About Me 🔎
-**DevOps Engineer** with a passion for optimizing workflows and tackling complex challenges. Outside of work, I enjoy FPS, Strategic and Simulation Video Games, which hone my **Critical Thinking** and **Problem-Solving Skills**.
-
-**Currently working on [Epic-Games-Stats](https://github.com/Nicconike/Epic-Games-Stats)**
+**DevOps Engineer** passionate about optimizing workflows, automating infrastructure, and solving complex challenges across cloud platforms. I thrive on building efficient CI/CD pipelines, leveraging tools like Jenkins, GitLab/GitHub, Terraform and implementing robust monitoring with Prometheus and Grafana. Outside of work, I enjoy FPS, strategy and simulation video games, activities that continuously sharpen my critical thinking, adaptability and real time problem-solving skills, all of which I bring to my DevOps practice.
 
 <div class="container">
     <details>
@@ -148,36 +146,35 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%2056%20mins-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-🌆 Daytime                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-🌃 Evening                405 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-🌙 Night                  961 commits         █████████████████░░░░░░░░   66.74 % 
+🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+🌆 Daytime                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+🌃 Evening                405 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 %
+🌙 Night                  961 commits         █████████████████░░░░░░░░   66.74 %
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Tuesday                  194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Wednesday                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Thursday                 203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Friday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Saturday                 213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Sunday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Monday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 %
+Tuesday                  194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Wednesday                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 %
+Thursday                 203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Friday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Saturday                 213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 %
+Sunday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 ```
-
 
  Last Updated on 13/04/2025 18:43:54 UTC
 <!--END_SECTION:waka-->
