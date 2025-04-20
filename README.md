@@ -194,13 +194,13 @@ Text                     40 mins             █░░░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 7 mins | 1 min |
+| 7742 | 21 hrs 1 min | 3 hrs |
 
-#### Top Language (YAML)
+#### Top Language (TypeScript)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 5156 | 7 mins | 1 min |
+| 3065 | 16 hrs 52 mins | 2 hrs 24 mins |
 
 
 <!-- Wakatime-End -->
