@@ -19,7 +19,7 @@ jobs:
                 private-key: ${{ secrets.APP_PRIVATE_KEY }}
 
           - name: Steam Stats
-            uses: nicconike/steam-stats@latest
+            uses: nicconike/steam-stats@master
             env:
                 GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
             with:
