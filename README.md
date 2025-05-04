@@ -160,13 +160,13 @@ Transforming **DevOps** into **AIOps** — because the future runs itself
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 6 hrs 4 mins | 52 mins |
+| None | 3 hrs 3 mins | 26 mins |
 
-#### Top Language (TypeScript)
+#### Top Language (Docker)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 4368 | 1 hr 41 mins | 14 mins |
+| 25 | 1 hr 56 mins | 16 mins |
 
 
 <!-- Wakatime-End -->
