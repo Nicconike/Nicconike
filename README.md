@@ -178,12 +178,12 @@ Transforming **DevOps** into **AIOps** — because the future runs itself
 <summary><h2>Gaming 🎮</h2></summary>
 
 <!-- Steam-Stats start -->
-![Steam Summary](https://github.com/Nicconike/Nicconike/blob/master//steam-stats/assets/steam_summary.png)
-![Recently Played Games](https://github.com/Nicconike/Nicconike/blob/master//steam-stats/assets/recently_played_games.png)
+![Steam Summary](https://github.com/Nicconike/Nicconike/blob/master/steam-stats/assets/steam_summary.png)
+![Recently Played Games](https://github.com/Nicconike/Nicconike/blob/master/steam-stats/assets/recently_played_games.png)
 <!-- Steam-Stats end -->
 
 <!-- Steam-Workshop start -->
-![Steam Workshop Stats](https://github.com/Nicconike/Nicconike/blob/master//steam-stats/assets/steam_workshop_stats.png)
+![Steam Workshop Stats](https://github.com/Nicconike/Nicconike/blob/master/steam-stats/assets/steam_workshop_stats.png)
 <!-- Steam-Workshop end -->
 
 **Powered by [Steam Stats](https://github.com/Nicconike/Steam-Stats)**
