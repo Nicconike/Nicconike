@@ -144,7 +144,7 @@ Transforming **DevOps** into **AIOps** — because the future runs itself
 #### Code Time Calculation Initiated on March 19, 2024
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%208%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -173,15 +173,11 @@ Sunday                   240 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   37.64 % 
-TOML                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-PowerShell               35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+JSON                     2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2025 18:46:41 UTC
+ Last Updated on 08/06/2025 18:48:09 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub Streak 🔥
