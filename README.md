@@ -190,13 +190,13 @@ JSON                     2 mins              ███████████�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 3 hrs 17 mins | 28 mins |
+| None | 2 mins | 0 mins |
 
 #### Top Language (JSON)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 2894 | 1 hr 14 mins | 10 mins |
+| None | 2 mins | 0 mins |
 
 
 <!-- Wakatime-End -->
