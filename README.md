@@ -208,6 +208,7 @@ JSON                     2 mins              ███████████�
 <summary><h2>Gaming 🎮</h2></summary>
 
 <!-- Steam-Stats start -->
+![Steam Summary](https://github.com/Nicconike/Nicconike/blob/master/assets/steam_summary.png)
 ![Recently Played Games](https://github.com/Nicconike/Nicconike/blob/master/assets/recently_played_games.png)
 <!-- Steam-Stats end -->
 
