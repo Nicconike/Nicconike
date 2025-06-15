@@ -160,13 +160,13 @@ Transforming **DevOps** into **AIOps** — because the future runs itself
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 2 mins | 0 mins |
+| None | 3 hrs 11 mins | 27 mins |
 
-#### Top Language (JSON)
+#### Top Language (Batchfile)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 2 mins | 0 mins |
+| 14 | 1 hr 32 mins | 13 mins |
 
 
 <!-- Wakatime-End -->
