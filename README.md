@@ -194,13 +194,13 @@ Markdown                 12 mins             ██░░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 3 hrs 11 mins | 27 mins |
+| 8937 | 14 hrs 1 min | 2 hrs |
 
-#### Top Language (Batchfile)
+#### Top Language (YAML)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 14 | 1 hr 32 mins | 13 mins |
+| 96 | 7 hrs 57 mins | 1 hr 8 mins |
 
 
 <!-- Wakatime-End -->
