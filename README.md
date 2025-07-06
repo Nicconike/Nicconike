@@ -227,12 +227,16 @@ HTML                     18 mins             █░░░░░░░░░░�
 ### Connect with Me 👇
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nicco_nike)](https://x.com/Nicco_nike)
-[![Discord](https://img.shields.io/badge/Join-Discord-blue?logo=discord)](https://discord.gg/UbetHfu)
+![Discord](https://img.shields.io/discord/722504565060010035?style=flat&logo=discord&logoSize=auto&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FUbetHfu)
+![Twitch Status](https://img.shields.io/twitch/status/nicconike)
 [![Steam](https://img.shields.io/badge/Steam-black?logo=steam)](https://steamcommunity.com/id/nicconike/)
+![Email](https://img.shields.io/badge/github.giving328%40passmail.com-black?style=flat&logo=protonmail&logoSize=auto&label=Email)
+
 
 ><div>
->    <b>“If you only do what you can do, you will never be more than who you are.” - Master Shifu</b>
+>    <b>“If you only do what you can do, you will never be more than who you are.” - Master Shifu</b><br/>
 >    <a href="https://i.imgur.com/NN6nr6P.png" target="_blank">
->    <img src="https://i.imgur.com/NN6nr6P.png" alt="Master Shifu" style="vertical-align: bottom;" height="18"/>
->    </a>
+>    <img src="https://i.imgur.com/NN6nr6P.png" alt="Master Shifu" height="40"/>
+>   </a>
 ></div>
+
