@@ -233,10 +233,5 @@ HTML                     18 mins             █░░░░░░░░░░�
 ![Email](https://img.shields.io/badge/github.giving328%40passmail.com-black?style=flat&logo=protonmail&logoSize=auto&label=Email)
 
 
-><div>
->    <b>“If you only do what you can do, you will never be more than who you are.” - Master Shifu</b><br/>
->    <a href="https://i.imgur.com/NN6nr6P.png" target="_blank">
->    <img src="https://i.imgur.com/NN6nr6P.png" alt="Master Shifu" height="40"/>
->   </a>
-></div>
-
+> **“If you only do what you can do, you will never be more than who you are.” – Master Shifu**
+> ![Master Shifu](assets/master-shifu.png)
