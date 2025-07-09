@@ -234,4 +234,4 @@ HTML                     18 mins             █░░░░░░░░░░�
 
 
 > **“If you only do what you can do, you will never be more than who you are.” – Master Shifu**
-> ![Master Shifu](assets/master-shifu.png)
+> ![Master Shifu](https://github.com/Nicconike/Nicconike/blob/master/assets/master-shifu.png)
