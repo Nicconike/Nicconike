@@ -11,28 +11,29 @@ jobs:
         name: Dev Metrics
         runs-on: ubuntu-latest
         steps:
-          - name: GitHub App Token
-            uses: actions/create-github-app-token@v2
-            id: app-token
-            with:
-                app-id: ${{ secrets.APP_ID }}
-                private-key: ${{ secrets.APP_PRIVATE_KEY }}
+            - name: GitHub App Token
+              uses: actions/create-github-app-token@v2
+              id: app-token
+              with:
+                  app-id: ${{ secrets.APP_ID }}
+                  private-key: ${{ secrets.APP_PRIVATE_KEY }}
 
-          - name: Wakatime Stats
-            uses: anmol098/waka-readme-stats@master
-            env:
-                GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
-            with:
-                WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
-                SHOW_PROJECTS: "False"
-                SHOW_COMMIT: "True"
-                SHOW_LANGUAGE : "True"
-                SHOW_TIMEZONE: "True"
-                SHOW_EDITORS: "False"
-                SHOW_LOC_CHART: "False"
-                SHOW_PROFILE_VIEWS: "False"
-                SHOW_SHORT_INFO: "False"
-                SHOW_OS: "False"
-                SHOW_LANGUAGE_PER_REPO: "False"
-                SHOW_UPDATED_DATE: "True"
-                SHOW_TOTAL_CODE_TIME: "True"
+            - name: Wakatime Stats
+              uses: anmol098/waka-readme-stats@master
+              env:
+                  GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+              with:
+                  WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
+                  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+                  SHOW_PROJECTS: "False"
+                  SHOW_COMMIT: "True"
+                  SHOW_LANGUAGE: "True"
+                  SHOW_TIMEZONE: "True"
+                  SHOW_EDITORS: "False"
+                  SHOW_LOC_CHART: "False"
+                  SHOW_PROFILE_VIEWS: "False"
+                  SHOW_SHORT_INFO: "False"
+                  SHOW_OS: "False"
+                  SHOW_LANGUAGE_PER_REPO: "False"
+                  SHOW_UPDATED_DATE: "True"
+                  SHOW_TOTAL_CODE_TIME: "True"

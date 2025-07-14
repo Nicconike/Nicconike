@@ -11,20 +11,20 @@ jobs:
         name: Steam Stats
         runs-on: ubuntu-latest
         steps:
-          - name: GitHub App Token
-            uses: actions/create-github-app-token@v2
-            id: app-token
-            with:
-                app-id: ${{ secrets.APP_ID }}
-                private-key: ${{ secrets.APP_PRIVATE_KEY }}
+            - name: GitHub App Token
+              uses: actions/create-github-app-token@v2
+              id: app-token
+              with:
+                  app-id: ${{ secrets.APP_ID }}
+                  private-key: ${{ secrets.APP_PRIVATE_KEY }}
 
-          - name: Steam Stats
-            uses: nicconike/steam-stats@master
-            env:
-                GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
-            with:
-                STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-                STEAM_ID: ${{ vars.STEAM_ID }}
-                STEAM_CUSTOM_ID: ${{ vars.STEAM_CUSTOM_ID }}
-                WORKSHOP_STATS: True
-                LOG_SCALE: True
+            - name: Steam Stats
+              uses: nicconike/steam-stats@master
+              env:
+                  GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+              with:
+                  STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+                  STEAM_ID: ${{ vars.STEAM_ID }}
+                  STEAM_CUSTOM_ID: ${{ vars.STEAM_CUSTOM_ID }}
+                  WORKSHOP_STATS: True
+                  LOG_SCALE: True
