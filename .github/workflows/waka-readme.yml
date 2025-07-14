@@ -24,7 +24,6 @@ jobs:
                 GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
             with:
                 WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
-                GH_TOKEN: ${{ secrets.GH_TOKEN }}
                 SHOW_PROJECTS: "False"
                 SHOW_COMMIT: "True"
                 SHOW_LANGUAGE : "True"
