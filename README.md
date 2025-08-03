@@ -192,13 +192,13 @@ AutoHotkey               5 mins              █████░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 2 hrs 14 mins | 19 mins |
+| None | 28 mins | 4 mins |
 
-#### Top Language (Markdown)
+#### Top Language (PowerShell)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 1529 | 1 hr 20 mins | 11 mins |
+| 88 | 22 mins | 3 mins |
 
 
 <!-- Wakatime-End -->
