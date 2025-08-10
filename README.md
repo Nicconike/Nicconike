@@ -145,7 +145,7 @@ Currently working on updating documentation and templating for [Steam Stats](htt
 #### Code Time Calculation Initiated on March 19, 2024
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2059%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -174,12 +174,15 @@ Sunday                   172 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PowerShell               22 mins             ████████████████████░░░░░   79.67 % 
-AutoHotkey               5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Markdown                 4 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
+PowerShell               3 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.27 % 
+YAML                     2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 
- Last Updated on 03/08/2025 18:52:25 UTC
+ Last Updated on 10/08/2025 18:49:32 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub Streak 🔥
