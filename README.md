@@ -161,13 +161,13 @@ Currently working on updating documentation and templating for [Steam Stats](htt
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 6535 | 21 hrs 8 mins | 3 hrs 1 min |
+| 2999 | 26 hrs 53 mins | 3 hrs 50 mins |
 
-#### Top Language (Markdown)
+#### Top Language (PowerShell)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 179 | 7 hrs 13 mins | 1 hr 1 min |
+| 1 | 17 hrs 27 mins | 2 hrs 29 mins |
 
 
 <!-- Wakatime-End -->
