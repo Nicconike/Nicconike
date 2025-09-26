@@ -10,9 +10,6 @@
 ### About Me 🔎
 **Senior DevOps Engineer** who loves **Building** in the **Cloud** and **Gaming** on the **Ground**
 
-### Current Status 🚧
-Currently working on updating documentation and templating for [Steam Stats](https://github.com/Nicconike/Steam-Stats) project
-
 <div class="container">
     <details>
         <summary>
