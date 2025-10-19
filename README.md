@@ -192,13 +192,13 @@ JSON                     17 mins             ░░░░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 5614 | 19 hrs 59 mins | 2 hrs 51 mins |
+| 7629 | 15 hrs 44 mins | 2 hrs 14 mins |
 
-#### Top Language (YAML)
+#### Top Language (Python)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 40 | 10 hrs 15 mins | 1 hr 27 mins |
+| 487 | 14 hrs 10 mins | 2 hrs 1 min |
 
 
 <!-- Wakatime-End -->
