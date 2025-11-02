@@ -190,13 +190,13 @@ Bash                     3 mins              ░░░░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 4 hrs 22 mins | 37 mins |
+| None | 14 hrs 10 mins | 2 hrs 1 min |
 
 #### Top Language (Python)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 2855 | 3 hrs 25 mins | 29 mins |
+| None | 13 hrs 22 mins | 1 hr 54 mins |
 
 
 <!-- Wakatime-End -->
