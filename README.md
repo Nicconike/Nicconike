@@ -192,13 +192,13 @@ Bash                     1 min               ░░░░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 2 hrs 11 mins | 18 mins |
+| None | 1 hr 18 mins | 11 mins |
 
-#### Top Language (YAML)
+#### Top Language (TSConfig)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 4916 | 38 mins | 5 mins |
+| 69 | 27 mins | 3 mins |
 
 
 <!-- Wakatime-End -->
