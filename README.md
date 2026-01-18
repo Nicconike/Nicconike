@@ -189,13 +189,13 @@ Git Config               9 mins              ██░░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| None | 47 mins | 6 mins |
+| None | 2 hrs 33 mins | 21 mins |
 
-#### Top Language (JavaScript)
+#### Top Language (YAML)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 4478 | 22 mins | 3 mins |
+| 369 | 2 hrs 23 mins | 20 mins |
 
 
 <!-- Wakatime-End -->
