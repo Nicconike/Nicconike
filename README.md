@@ -142,44 +142,10 @@
 #### Code Time Calculation Initiated on March 19, 2024
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%2029%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-🌆 Daytime                67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-🌃 Evening                401 commits         ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-🌙 Night                  1097 commits        ██████████████████░░░░░░░   70.01 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   223 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Tuesday                  210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Wednesday                266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Thursday                 239 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Friday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Saturday                 277 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Sunday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C452%20hrs%2048%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-JSON                     1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-YAML                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-TSConfig                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-```
-
-
- Last Updated on 20/04/2026 21:42:49 UTC
+ Last Updated on 26/04/2026 19:27:57 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub Streak 🔥
