@@ -192,13 +192,13 @@ JSON                     2 hrs 34 mins       ██░░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 2082 | 24 hrs 54 mins | 3 hrs 33 mins |
+| 1461 | 31 hrs 54 mins | 4 hrs 33 mins |
 
-#### Top Language (YAML)
+#### Top Language (C#)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 16 | 11 hrs 23 mins | 1 hr 37 mins |
+| None | 10 hrs 37 mins | 1 hr 31 mins |
 
 
 <!-- Wakatime-End -->
