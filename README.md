@@ -146,24 +146,38 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-215%20hrs%2059%20mins-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 37.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 26 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-🌆 Daytime                132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-🌃 Evening                622 commits         ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-🌙 Night                  1680 commits        █████████████████░░░░░░░░   68.43 % 
+🌆 Daytime                133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+🌃 Evening                622 commits         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌙 Night                  1680 commits        █████████████████░░░░░░░░   68.40 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   435 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Tuesday                  337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Wednesday                321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Monday                   436 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Tuesday                  337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Wednesday                321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 Thursday                 360 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
 Friday                   357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Saturday                 377 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Sunday                   268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Saturday                 377 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Sunday                   268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 ```
 
 
@@ -206,8 +220,12 @@ Opencode-Cli             5 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 26.77% of changed lines were hand-edited
 ```
 
+**Timeline**
 
- Last Updated on 03/08/2026 06:38:03 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/Nicconike/Nicconike/master/assets/bar_graph.png)
+
+
+ Last Updated on 03/08/2026 06:48:24 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub Streak 🔥
