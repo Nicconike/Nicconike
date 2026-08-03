@@ -5,7 +5,7 @@ on:
     push:
         - master
         paths:
-            - ".gitHub/workflows/waka-readme.yml"
+            - ".github/workflows/waka-readme.yml"
     schedule:
         # Runs every Monday at 12 AM IST (UTC+5:30)
         - cron: "30 18 * * 0"
