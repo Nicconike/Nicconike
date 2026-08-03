@@ -2,6 +2,10 @@ name: Readme
 
 on:
     workflow_dispatch:
+    push:
+        - master
+        paths:
+            - ".gitHub/workflows/waka-readme.yml"
     schedule:
         # Runs every Monday at 12 AM IST (UTC+5:30)
         - cron: "30 18 * * 0"
@@ -31,10 +35,10 @@ jobs:
                   SHOW_TIMEZONE: "True"
                   SHOW_EDITORS: "False"
                   SHOW_LOC_CHART: "True"
-                  SHOW_PROFILE_VIEWS: "True"
+                  SHOW_PROFILE_VIEWS: "False"
                   SHOW_SHORT_INFO: "True"
                   SHOW_OS: "False"
                   SHOW_LANGUAGE_PER_REPO: "False"
                   SHOW_UPDATED_DATE: "True"
                   SHOW_TOTAL_CODE_TIME: "True"
-                  SHOW_AI_CODING: "True"
+                  SHOW_AI_CODING: "False"
