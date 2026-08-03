@@ -146,8 +146,68 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-215%20hrs%2059%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 02/08/2026 19:43:06 UTC
+```text
+🌞 Morning                21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+🌆 Daytime                132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+🌃 Evening                622 commits         ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+🌙 Night                  1680 commits        █████████████████░░░░░░░░   68.43 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   435 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Tuesday                  337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Wednesday                321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Thursday                 360 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Friday                   357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Saturday                 377 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Sunday                   268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+C#                       6 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Markdown                 6 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+YAML                     6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Inno Setup               4 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Svelte                   3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 33 hrs 49 mins (84.76%)
+
+✍️ 2,396 lines written by AI, 579 lines written by hand (80.54% AI-written)
+
+🔤 1,498,094 Input Tokens, 68,923 Output Tokens
+
+💵 $5.27 Estimated AI Cost This Week
+
+🧠 28 AI Sessions, 588 AI Prompts
+
+Antigravity-Desktop      1,752 lines         ███████████████░░░░░░░░░░   58.07 % 
+Gemini                   715 lines           ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+Deepseek                 520 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Opus                     25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Opencode-Cli             5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 80.54% of written lines came from AI
+📝 Concise Prompter — average 256 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 26.77% of changed lines were hand-edited
+```
+
+
+ Last Updated on 03/08/2026 06:38:03 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub Streak 🔥
