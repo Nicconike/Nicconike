@@ -3,7 +3,7 @@ name: Readme
 on:
     workflow_dispatch:
     push:
-        - master
+        branches: [master]
         paths:
             - ".github/workflows/waka-readme.yml"
     schedule:
