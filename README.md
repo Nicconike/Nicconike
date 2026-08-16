@@ -142,11 +142,11 @@
 #### Code Time Calculation Initiated on March 19, 2024
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C776%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C805%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 37.4 kB Used in GitHub's Storage 
+> 📦 37.5 kB Used in GitHub's Storage 
  > 
 > 🏆 40 Contributions in the Year 2026
  > 
@@ -183,11 +183,11 @@ Sunday                   267 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     11 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-C#                       10 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Other                    6 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Markdown                 6 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-TOML                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+C#                       14 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   39.40 % 
+Other                    10 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Markdown                 5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+TypeScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Svelte                   1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 ```
 
 **Timeline**
@@ -195,7 +195,7 @@ TOML                     3 hrs               ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nicconike/Nicconike/master/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:13:17 UTC
+ Last Updated on 16/08/2026 18:57:26 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub Streak 🔥
