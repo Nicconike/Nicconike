@@ -142,11 +142,11 @@
 #### Code Time Calculation Initiated on March 19, 2024
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C939%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C976%20hrs%2058%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 38.5 kB Used in GitHub's Storage 
+> 📦 38.8 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2026
  > 
@@ -183,11 +183,11 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    8 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.57 % 
-Markdown                 7 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-JSON                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-YAML                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-XML                      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+YAML                     17 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   38.33 % 
+Markdown                 10 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+Other                    10 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+TypeScript               3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
 **Timeline**
@@ -195,7 +195,7 @@ XML                      1 hr 13 mins        █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nicconike/Nicconike/master/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:01:19 UTC
+ Last Updated on 27/09/2026 21:32:20 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub Streak 🔥
