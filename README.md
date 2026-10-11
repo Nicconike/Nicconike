@@ -142,13 +142,13 @@
 #### Code Time Calculation Initiated on March 19, 2024
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C976%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C028%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 38.8 kB Used in GitHub's Storage 
+> 📦 43.4 kB Used in GitHub's Storage 
  > 
-> 🏆 45 Contributions in the Year 2026
+> 🏆 53 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -159,21 +159,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                47 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-🌆 Daytime                138 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-🌃 Evening                632 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-🌙 Night                  1702 commits        █████████████████░░░░░░░░   67.57 % 
+🌞 Morning                39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+🌆 Daytime                138 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+🌃 Evening                638 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+🌙 Night                  1713 commits        █████████████████░░░░░░░░   67.76 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   459 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Tuesday                  337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Wednesday                326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Thursday                 375 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Friday                   357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Saturday                 393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Sunday                   272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Monday                   454 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Tuesday                  337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Thursday                 372 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Friday                   357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Saturday                 391 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Sunday                   292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 ```
 
 
@@ -183,11 +183,11 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     17 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   38.33 % 
-Markdown                 10 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-Other                    10 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-TypeScript               3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+YAML                     5 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+Markdown                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+JSON                     3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+TypeScript               3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Docker                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 **Timeline**
@@ -195,7 +195,7 @@ JSON                     1 hr 20 mins        █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nicconike/Nicconike/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:32:20 UTC
+ Last Updated on 11/10/2026 22:19:18 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub Streak 🔥
