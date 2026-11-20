@@ -148,7 +148,7 @@
 
 > 📦 45.5 kB Used in GitHub's Storage 
  > 
-> 🏆 102 Contributions in the Year 2026
+> 🏆 103 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -156,12 +156,46 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+🌆 Daytime                138 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+🌃 Evening                653 commits         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+🌙 Night                  1755 commits        █████████████████░░░░░░░░   68.31 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   449 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Tuesday                  348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Wednesday                340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Thursday                 376 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Friday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Saturday                 392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Sunday                   295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Svelte                   1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+YAML                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+TypeScript               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Nicconike/Nicconike/master/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 23:42:49 UTC
+ Last Updated on 20/11/2026 23:49:00 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub Streak 🔥
