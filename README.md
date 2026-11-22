@@ -208,13 +208,13 @@ Markdown                 58 mins             ███░░░░░░░░�
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 2023 | 33 hrs 59 mins | 4 hrs 51 mins |
+| 7624 | 6 hrs 27 mins | 55 mins |
 
-#### Top Language (YAML)
+#### Top Language (Other)
 
 | Ranked | Hours Coded | Daily Avg |
 | ------ | ----------- | --------- |
-| 30 | 11 hrs 26 mins | 1 hr 38 mins |
+| - | 1 hr 49 mins | 15 mins |
 
 
 <!-- Wakatime-End -->
